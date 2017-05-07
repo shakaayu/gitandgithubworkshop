@@ -1,1 +1,2 @@
-Hello! I am here to attend Git and Git hub workshop.
+ello! I am here to attend Git and Git hub workshop.
+blah
